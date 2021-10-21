@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+git opengauss 可以出售
+
+联系邮箱
+myzhs@hotmail.com
+
 <!--
 **opengauss/opengauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
